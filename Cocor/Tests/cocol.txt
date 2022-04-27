@@ -1,0 +1,1 @@
+CHR(20) n "sssssss" CHR(20)..CHR(22) .) (. ñ 'c'
